@@ -41,6 +41,7 @@ public class TemperatureConversion {
 				break;
 			}
 		}
+		scannerObject.close();
 	}
 
 }
